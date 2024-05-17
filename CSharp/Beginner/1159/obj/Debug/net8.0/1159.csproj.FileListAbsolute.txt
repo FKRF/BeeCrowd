@@ -1,0 +1,14 @@
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\bin\Debug\net8.0\1159.exe
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\bin\Debug\net8.0\1159.deps.json
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\bin\Debug\net8.0\1159.runtimeconfig.json
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\bin\Debug\net8.0\1159.dll
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\bin\Debug\net8.0\1159.pdb
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.AssemblyInfoInputs.cache
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.AssemblyInfo.cs
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.csproj.CoreCompileInputs.cache
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.dll
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\refint\1159.dll
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.pdb
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\1159.genruntimeconfig.cache
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\1159\obj\Debug\net8.0\ref\1159.dll

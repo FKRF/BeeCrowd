@@ -1,0 +1,14 @@
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\bin\Debug\net8.0\1095.exe
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\bin\Debug\net8.0\1095.deps.json
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\bin\Debug\net8.0\1095.runtimeconfig.json
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\bin\Debug\net8.0\1095.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\bin\Debug\net8.0\1095.pdb
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.AssemblyInfoInputs.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.AssemblyInfo.cs
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.csproj.CoreCompileInputs.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\refint\1095.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.pdb
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\1095.genruntimeconfig.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\1095\obj\Debug\net8.0\ref\1095.dll

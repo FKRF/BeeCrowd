@@ -1,0 +1,14 @@
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\bin\Debug\net8.0\2632.exe
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\bin\Debug\net8.0\2632.deps.json
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\bin\Debug\net8.0\2632.runtimeconfig.json
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\bin\Debug\net8.0\2632.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\bin\Debug\net8.0\2632.pdb
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.AssemblyInfoInputs.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.AssemblyInfo.cs
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.csproj.CoreCompileInputs.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\refint\2632.dll
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.pdb
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\2632.genruntimeconfig.cache
+C:\Users\KDRF\Documents\GitHub\C_Sharp\BeeCrowd\2632\obj\Debug\net8.0\ref\2632.dll

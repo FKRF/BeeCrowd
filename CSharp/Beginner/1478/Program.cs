@@ -23,27 +23,26 @@ class Program
 
     public static void CreateMatrix(int[,] matrix)
     {
-        int n, i, j, k, beginLine, endLine, beginColumn, endColumn;
+        int n, i, j, number;
 
         n = matrix.GetLength(0);
-        beginLine = 0;
-        endLine = n;
-        beginColumn = 0;
-        endColumn = n;
-        for (k = 1; k <= n; k++)
+
+
+        for (i = 0; i < n; i++)
         {
-            for (i = beginLine; i < endLine; i++)
+            number = i + 2;
+            for (j = 0; j < n; j++)
             {
-                for (j = beginColumn; j < endColumn; j++)
-                {
-                    matrix[i, j] = k;
-                }
+                if (i < j)
+                    matrix[i, j] = number++;
+                else if (i > j)
+                    matrix[i, j] = --number;
+                else
+                    matrix[i, j] = 1;
             }
-            // beginLine++;
-            // beginColumn++;
-            // endLine--;
-            // endColumn--;
         }
+
+
     }
 
     public static void PrintMatrix(int[,] matrix)

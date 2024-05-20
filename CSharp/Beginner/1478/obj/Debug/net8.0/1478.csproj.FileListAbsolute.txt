@@ -12,3 +12,4 @@ C:\Users\KDRF\Documents\GitHub\BeeCrowd\CSharp\Beginner\1478\obj\Debug\net8.0\re
 C:\Users\KDRF\Documents\GitHub\BeeCrowd\CSharp\Beginner\1478\obj\Debug\net8.0\1478.pdb
 C:\Users\KDRF\Documents\GitHub\BeeCrowd\CSharp\Beginner\1478\obj\Debug\net8.0\1478.genruntimeconfig.cache
 C:\Users\KDRF\Documents\GitHub\BeeCrowd\CSharp\Beginner\1478\obj\Debug\net8.0\ref\1478.dll
+C:\Users\KDRF\Documents\GitHub\BeeCrowd\CSharp\Beginner\1478\obj\Debug\net8.0\1478.sourcelink.json

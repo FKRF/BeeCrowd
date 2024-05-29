@@ -1,0 +1,15 @@
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/bin/Debug/net8.0/1197
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/bin/Debug/net8.0/1197.deps.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/bin/Debug/net8.0/1197.runtimeconfig.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/bin/Debug/net8.0/1197.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/bin/Debug/net8.0/1197.pdb
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.GeneratedMSBuildEditorConfig.editorconfig
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.AssemblyInfoInputs.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.AssemblyInfo.cs
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.csproj.CoreCompileInputs.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.sourcelink.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/refint/1197.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.pdb
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/1197.genruntimeconfig.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Mathematics/1197/obj/Debug/net8.0/ref/1197.dll

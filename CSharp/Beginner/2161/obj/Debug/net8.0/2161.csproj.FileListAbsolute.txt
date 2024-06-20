@@ -1,0 +1,15 @@
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/bin/Debug/net8.0/2161
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/bin/Debug/net8.0/2161.deps.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/bin/Debug/net8.0/2161.runtimeconfig.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/bin/Debug/net8.0/2161.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/bin/Debug/net8.0/2161.pdb
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.GeneratedMSBuildEditorConfig.editorconfig
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.AssemblyInfoInputs.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.AssemblyInfo.cs
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.csproj.CoreCompileInputs.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.sourcelink.json
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/refint/2161.dll
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.pdb
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/2161.genruntimeconfig.cache
+/home/fkrf/Documents/GitHub/BeeCrowd/CSharp/Beginner/2161/obj/Debug/net8.0/ref/2161.dll
